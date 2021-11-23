@@ -1,0 +1,16 @@
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\bin\Debug\net5.0\Base64.exe
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\bin\Debug\net5.0\Base64.deps.json
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\bin\Debug\net5.0\Base64.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\bin\Debug\net5.0\Base64.runtimeconfig.dev.json
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\bin\Debug\net5.0\Base64.dll
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\bin\Debug\net5.0\ref\Base64.dll
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\bin\Debug\net5.0\Base64.pdb
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\obj\Debug\net5.0\Base64.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\obj\Debug\net5.0\Base64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\obj\Debug\net5.0\Base64.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\obj\Debug\net5.0\Base64.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\obj\Debug\net5.0\Base64.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\obj\Debug\net5.0\Base64.dll
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\obj\Debug\net5.0\ref\Base64.dll
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\obj\Debug\net5.0\Base64.pdb
+C:\Users\guilh\OneDrive\Documentos\Exercises\Base64\Base64\obj\Debug\net5.0\Base64.genruntimeconfig.cache
